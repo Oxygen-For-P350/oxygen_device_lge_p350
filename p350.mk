@@ -88,7 +88,6 @@ PRODUCT_PACKAGES += \
     libaudio \
     libcamera \
     copybit.msm7k \
-    copybit.p350 \
     gralloc.p350 \
     libOmxCore \
     lgapversion \
