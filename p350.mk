@@ -80,7 +80,7 @@ PRODUCT_PACKAGES += \
    copybit.msm7x27 \
    libstagefrighthw \
    libtilerenderer \
-   hwcomposer.msm7x27 \
+   hwcomposer.default \
    libQcomUI \
 
 # Audio
